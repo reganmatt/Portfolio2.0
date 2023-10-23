@@ -28,7 +28,7 @@ export default function About() {
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          JavaScript, Node.js, HTML, CSS, React, Next.js and Typscript
+          JavaScript, Node.js, HTML, CSS, React, Next.js and TypeScript
         </span>
         . I am always looking to learn new technologies. I am currently looking
         for a <span className="font-medium">full-time position</span> as a
