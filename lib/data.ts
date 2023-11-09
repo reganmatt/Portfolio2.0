@@ -59,7 +59,7 @@ export const experiencesData = [
 export const projectsData = [
   {
     title: "Lit.js and Shoelace",
-    description: "A Codepen of experiements with ",
+    description: "A Codepen of experiments with ",
     tags: ["Lit.js", "Shoelace.js", "TypeScript"],
     imageUrl: lit,
   },
